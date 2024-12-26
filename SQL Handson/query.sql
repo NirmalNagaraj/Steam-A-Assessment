@@ -1,8 +1,3 @@
---DB Creation and Using statement Statement
-CREATE DATABASE handson;
-
-USE DATABASE handson;
-
 -- Create Employee table
 CREATE TABLE Employee (
     EMPLOYEE_ID SERIAL PRIMARY KEY,
