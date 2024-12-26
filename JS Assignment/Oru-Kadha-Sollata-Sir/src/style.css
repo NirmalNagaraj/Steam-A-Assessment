@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(33, 56, 56);
+}
+
+p {
+    margin: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    text-align: justify;
+    text-justify: inter-word;
+    color: ivory;
+}
+
+a {
+    text-decoration: none;
+    color: firebrick;
+    font-weight: bold;
+}
+.footers{
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top : 2px;
+    margin-left: 80px;
+    font-size: 18px;
+    font-family: Nunito Sans;
+    font-style: normal;
+    color: ivory;
+}
